@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+gtts = "*"
+groq = "*"
+python-dotenv = "*"
+pyaudio = "*"
+gradio = "*"
+elevenlabs = "*"
+speechrecognition = "*"
+pydub = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
