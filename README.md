@@ -1,4 +1,4 @@
-readme_content = """# AI Doctor with Vision and Voice
+## AI Doctor with Vision and Voice
 
 An interactive AI-powered medical consultation application that combines computer vision and voice capabilities to provide medical insights and recommendations.
 
